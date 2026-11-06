@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rogério A. Silva | Independent Researcher
+📍 São Paulo, Brazil
+🆔 ORCID: 0009-0007-5824-2953
 
-<!--
-**r-silva-elastic/r-silva-elastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Elastic Frontier - Fronteira Elástica v3.3-2
+Modelo Teórico-Analítico com formalismo Einstein-Cartan
 
-Here are some ideas to get you started:
+**Equação principal:** A = 0.07 * alfa (alfa: 0.01-0.05)
+**Ponto observacional:** Eixo do Mal (l=237°, b=-10°)
+**Testável por:** JWST & LiteBIRD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**DOI Oficial (versão analítica):** 10.5281/zenodo.23992892
+🔗 https://zenodo.org/records/23992892
+
+**Repositório do modelo:** https://github.com/r-silva-elastic/elastic-frontier
+
+**Status:** Analytical theory under peer review
+
+---
+Unificando plataformas: ORCID, Zenodo e GitHub com padrão único.
