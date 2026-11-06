@@ -1,6 +1,6 @@
 # Rogério A. Silva | Independent Researcher
 📍 São Paulo, Brazil
-🆔 ORCID: 0009-0007-5824-2953
+🆔 ORCID: https://orcid.org/0009-0007-5824-295X
 
 ## Elastic Frontier - Fronteira Elástica v3.3-2
 Modelo Teórico-Analítico com formalismo Einstein-Cartan
@@ -16,5 +16,8 @@ Modelo Teórico-Analítico com formalismo Einstein-Cartan
 
 **Status:** Analytical theory under peer review
 
+🆔 ORCID: https://orcid.org/0009-0007-5824-295X
+🔗 Zenodo (v3.3-2): https://zenodo.org/records/23992892
+💻 Projeto: https://github.com/r-silva-elastic/elastic-frontier
 ---
 Unificando plataformas: ORCID, Zenodo e GitHub com padrão único.
